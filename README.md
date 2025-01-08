@@ -16,3 +16,6 @@ This project involved conducting a comprehensive financial analysis of Big Rock 
 
 ## Conclusion:
 The financial analysis revealed a stable financial position with notable improvements in profitability and debt management. However, areas like inventory turnover, asset utilization, and ROA require attention to align with industry standards. The use of Altman’s Z-Score confirmed no immediate financial distress, highlighting the company's overall sound financial health.
+
+#### Acknowledgments
+All data is available in the textbook Financial Analysis with Microsoft® Excel® by Timothy R. Mayes
