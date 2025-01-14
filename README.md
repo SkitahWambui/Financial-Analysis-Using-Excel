@@ -1,5 +1,4 @@
 # Financial-Analysis-Using-Excel
-Financial Analysis of Big Rock Candy Mountain Mining Co. Using Excel
 This project involved conducting a comprehensive financial analysis of Big Rock Candy Mountain Mining Co. using Excel. Key deliverables included creating the company's balance sheet, income statement, and cash flow statement, followed by calculating financial ratios and automating their analysis using IF statements. Additionally, the Altman’s Z-Score model was applied to assess financial distress, with results indicating no signs of distress.
 
 ## Key Findings:
